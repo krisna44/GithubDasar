@@ -1,6 +1,10 @@
 Rencana Konten: 
-a. Video Online
-b. JavaScript lanjutan
+a. Video Online: 
+   - Youtube
+   
+b. JavaScript lanjutan: 
+  - React
 c. PHP
 d. Docker
 e. Mongo DB
+f. GIT
