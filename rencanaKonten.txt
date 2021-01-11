@@ -1,0 +1,10 @@
+Rencana Konten: 
+a. Video Online: 
+   - Youtube
+   
+b. JavaScript lanjutan: 
+  - React
+c. PHP
+d. Docker
+e. Mongo DB
+f. GIT
